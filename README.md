@@ -21,7 +21,9 @@ demonstrate the performance on The Alzheimer's Disease Neuroimaging Initiative (
 database.
 
 
-Methods: VGG19, DenseNet121, SqueezeNet architectures, Data Augmentation such as zoom,
+# Methods 
+
+VGG19, DenseNet121, SqueezeNet architectures, Data Augmentation such as zoom,
 
 rotation. The ADNI dataset is a publicly available dataset that includes clinical, imaging, and
 
@@ -30,7 +32,9 @@ genetic data from over 1,500 participants with normal cognition, mild cognitive 
 (MCI), and AD.
 
 
-Results: VGG19 and DenseNet121 performed the greatest in predicting. VGG19 achieved
+# Results
+
+VGG19 and DenseNet121 performed the greatest in predicting. VGG19 achieved
 
 Accuracy = 83.2%, AUC = 96.6%, Precision= 85.0%, Recall= 80.8% and DenseNet121 achieved
 
