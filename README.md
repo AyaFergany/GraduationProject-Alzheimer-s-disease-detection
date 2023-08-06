@@ -22,10 +22,10 @@ genetic data from over 1,500 participants with normal cognition, mild cognitive 
 
 # Results
 
-VGG19 and DenseNet121 performed the greatest in predicting. VGG19 achieved
+VGG19 and DenseNet121 performed the greatest in predicting. 
 
-Accuracy = 83.2%, AUC = 96.6%, Precision= 85.0%, Recall= 80.8% and DenseNet121 achieved
+VGG19 achieved Accuracy = 83.2%, AUC = 96.6%, Precision= 85.0%, Recall= 80.8% 
 
-Accuracy=79.8%, AUC = 95.7%, Precision= 82.1%, Recall= 78.0% values for the test. 
+DenseNet121 achieved Accuracy=79.8%, AUC = 95.7%, Precision= 82.1%, Recall= 78.0% values for the test. 
 
 SqueezeNet had the lowest accuracy in predicting. Overall VGG19 improved the performance values
